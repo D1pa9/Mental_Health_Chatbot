@@ -1,0 +1,75 @@
+{
+    "intents": [
+      {
+        "intent": "greeting",
+        "examples": [
+          {"text": "Hello"},
+          {"text": "Hi"},
+          {"text": "Hey"},
+          {"text": "Good morning"},
+          {"text": "Good afternoon"},
+          {"text": "Good evening"}
+        ]
+      },
+      {
+        "intent": "goodbye",
+        "examples": [
+          {"text": "Goodbye"},
+          {"text": "Bye"},
+          {"text": "See you later"},
+          {"text": "Talk to you soon"},
+          {"text": "Catch you later"}
+        ]
+      },
+      {
+        "intent": "ask_help",
+        "examples": [
+          {"text": "I need help"},
+          {"text": "Can you help me?"},
+          {"text": "I need support"},
+          {"text": "Can you assist me?"},
+          {"text": "I need someone to talk to"}
+        ]
+      },
+      {
+        "intent": "ask_information",
+        "examples": [
+          {"text": "Tell me about anxiety"},
+          {"text": "What is depression?"},
+          {"text": "Can you explain PTSD?"},
+          {"text": "I want to know about bipolar disorder"},
+          {"text": "What are the symptoms of OCD?"}
+        ]
+      },
+      {
+        "intent": "provide_coping_strategies",
+        "examples": [
+          {"text": "How can I manage my stress?"},
+          {"text": "What are some coping mechanisms for anxiety?"},
+          {"text": "How do I deal with depression?"},
+          {"text": "Can you give me tips for improving my mental health?"},
+          {"text": "What should I do if I'm feeling overwhelmed?"}
+        ]
+      },
+      {
+        "intent": "seek_professional_help",
+        "examples": [
+          {"text": "I need to talk to a therapist"},
+          {"text": "Can you recommend a counselor?"},
+          {"text": "Where can I find a mental health professional?"},
+          {"text": "How do I get in touch with a psychologist?"},
+          {"text": "Can you help me find a psychiatrist?"}
+        ]
+      },
+      {
+        "intent": "express_emotions",
+        "examples": [
+          {"text": "I'm feeling sad"},
+          {"text": "I am so stressed out"},
+          {"text": "I'm very anxious right now"},
+          {"text": "I'm feeling really down"},
+          {"text": "I am overwhelmed"}
+        ]
+      }
+    ]
+  }
